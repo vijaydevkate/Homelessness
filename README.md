@@ -4,9 +4,6 @@ Homelessness is an issue that continues to burden our communities across the glo
 
 This goal of this project is to examine macro level factors that a related to homelessness using US data.
 
-## How to Contribute
-If you are interested in collaborating on this project, please read the CONTRIBUTING document.
-
 ## Resources
 The following original sources were accessed to create datasets for analysis. These are located in the resources folder.
 
@@ -60,5 +57,3 @@ These datasets were specifically put together for use in a Tableau project.
 
 #### Using these datasets
 All datasets listed are consider to be clean versions of the data resources and ready for EDA.
-
-Especially when using the **homelessness** datasets it is important to understand that the categorizations found within the data are not mutually exclusive, and are therefore not additive. It is important that the data structure is understood before analysis is conducted. Information on how the data is constructed can be found in the [Data Configuration](https://github.com/rebeccaebarnes/Homelessness/blob/master/resources/data/Data%20Configuration.docx) doc.
